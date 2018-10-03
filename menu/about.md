@@ -1,18 +1,20 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: About Me
 ---
+Hi there, I'm a data scientist living in cologne.
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+After my degree in mathematics and computer science I've discovered my passion for python and data. That with my statistical and Linux background formed my stepping stone for my profession.
 
-### Getting Started
+Since 2017 I'm working as a data scientist in several companies and industries. Some  of my projects are:
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+- Recommender systems for commercial fares
+- Automated model builder for car insurance
+- Building and maintaining of various data pipelines and dashboards
+- Feature extraction from real estate images
+- News feed summarizer
 
-### Example Content
+and more.
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+I've realized these projects in python with jupyter notebooks and PyCharm.
+Besides these coding heavy parts of these projects there have been Postgres, Mongodb, Superset, Splunk, Kafka, Docker, Vagrant, Ansible and Jenkins involved.
