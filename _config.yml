@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Data Monkeys Home'
-description:	       'A digital postit collection for data science, big data and devop'
+description:	       'A digital postit collection'
 author:              'Ben Engel'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
