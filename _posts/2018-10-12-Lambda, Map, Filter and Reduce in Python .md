@@ -6,8 +6,6 @@ categories: python
 tags: basic
 image: 
 ---
-# Lambda, Map, Filter and Reduce in Python 
-
 This is a small introduction to functional operators in python. 
 The basic operators are:
 
