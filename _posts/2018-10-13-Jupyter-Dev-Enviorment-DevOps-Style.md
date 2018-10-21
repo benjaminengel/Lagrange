@@ -91,7 +91,7 @@ alias jnb_init='sudo docker run -d -v "/path/to/project/folder:/home/jovyan/work
 alias jnb_start='sudo docker start jnb'
 alias jnb_stop='sudo docker stop jnb'
 alias jnb_remove='jnb_stop && sudo docker rm jnb'
-alias jnb_update='jnb_remove && jnb_init
+alias jnb_update='jnb_remove && jnb_init'
 ```
 
 
